@@ -13,8 +13,7 @@ The link to the analyis can be find here
 [link to dashboard](https://public.tableau.com/profile/olawumi.odetunde#!/vizhome/NYCCitibike_16074480410980/NYCCitibikestory?publish=yes)
 
 ## Summary
-The primary users of the bikesharing are Male subscribers. Which means NYC Citibike should focus on expanding its marketing strategies towards this demographics sector. Analsyis also shows that, the peak hour for demansd for bike are 6am to 8pm, which means, NYC Citibike should schedule any maintenance towards 12am-5am in order to avoid inability to meet up with the demand.
-Analysis also showed that, Thursdays and Fridays are the preferable days for Male subscribers to ride, this means more bikes should be made available on those days.
+The primary users of bike-sharing are Male subscribers. This means NYC Citibike should focus on expanding its marketing strategies towards this demographics sector. The analysis also shows that the peak hour for the demand for the bike is 6 am to 8 pm, which means, NYC Citibike should schedule any maintenance towards 12 am-5 am to avoid the inability to meet up with the demand. The analysis also showed that Thursdays and Fridays are the preferable days for Male subscribers to ride; this means more bikes should be made available on those days.
 ### Challenge
 Though the analysis indicate that Male subscribers are the primary users of NYC Citibikes, it does not give indepth insight into the job and lifestyle of these demography.
 No data on price to predict demand for the bikesharing.
