@@ -9,5 +9,5 @@ In this analysis I use Pandas to perform ETL on the data and upload it on Tablea
 - Number of bike trips for all riders and gender for each hour of each day of the week: There are over Twenty thousands trips between 6am to 9am and 5pm to 7pm on Mondays,Tuesdays,Thursdays, Fridays and Saturdays. Wednesdays seems to have less demand for bikesharing. While Sundays have moderate bikesharing demands.
 - Number of bike trips for each type of users: The Male subscribers are the major users of the bike between 6am-7am and 5pm-7pm on Mondays, Tuesdays, Thursdays, Fridays, and Saturdays.
 
-The link to the analyis can be find in below link;
+The link to the analyis can be find here
 [link to dashboard](https://public.tableau.com/profile/olawumi.odetunde#!/vizhome/NYCCitibike_16074480410980/NYCCitibikestory?publish=yes)
