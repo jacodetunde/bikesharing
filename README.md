@@ -1,5 +1,12 @@
-# bikesharing
-## Overview
+# Data Visualization of Bikesharing data
+## Project Objectives
+To provide a useful insight about the demographic, length of time , location and preferences of the riders
+## Methods Used
+- Data Visualization
+## Technologies
+- Pandas, Jupyter
+- Tableau
+## Project Description
 In this analysis, I use Pandas to perform ETL on the data and upload it on Tableau to create a set of visualization that shows the following:
 - Length of time that bikes are checked out for all riders and genders
 - The number of bike trips for all riders and genders for each hour of each day of the week
