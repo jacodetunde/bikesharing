@@ -17,7 +17,8 @@ In this analysis, I use Pandas to perform ETL on the data and upload it on Table
 - Number of bike trips for each type of users: The Male subscribers are the major users of the bike between 6am-7am and 5pm-7pm on Mondays, Tuesdays, Thursdays, Fridays, and Saturdays.
 
 The link to the analyis can be find here
-[link to dashboard](https://public.tableau.com/profile/olawumi.odetunde#!/vizhome/NYCCitibike_16074480410980/NYCCitibikestory?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/olawumi.odetunde/viz/NYCCitibike_16074480410980/NYCDashboard?publish=yes)
+
 
 ## Summary
 The primary users of bike-sharing are Male subscribers. This means NYC Citibike should focus on expanding its marketing strategies towards this demographics sector. The analysis also shows that the peak hour for the demand for the bike is 6 am to 8 pm, which means, NYC Citibike should schedule any maintenance towards 12 am-5 am to avoid the inability to meet up with the demand. The analysis also showed that Thursdays and Fridays are the preferable days for Male subscribers to ride; this means more bikes should be made available on those days.
